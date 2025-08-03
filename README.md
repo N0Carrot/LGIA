@@ -15,13 +15,11 @@ I have tested on:
 
 > python main_attack.py
 
-![avatar](/custom_data/test_recon/final_rec8.jpg)
+![avatar](/custom_data/test_recon/final_rec.jpg)
 
 ### If you want to test with duplicated labels: 
 
 > python main_attack_duplicate_labels.py
-
-![avatar](/custom_data/test_recon/final_rec.jpg)
 
 ## Test images, reconstructions, as well as the auxiliary data we used in our paper are available in folder "custom_data".
 
