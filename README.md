@@ -20,7 +20,8 @@ I have tested on:
 ### If you want to test with duplicated labels: 
 
 > python main_attack_duplicate_labels.py
-
+![avatar](/custom_data/test_recon/GT.jpg)
+> ![avatar](/custom_data/test_recon/LGIA.jpg)
 ## Test images, reconstructions, as well as the auxiliary data we used in our paper are available in folder "custom_data".
 
 ## It is easy to test on more settings, just need to adjust the corresponding parameters as well as the training data in "custom_data".
