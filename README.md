@@ -1,4 +1,4 @@
-# HF-GradInv
+# LGIA
 Implementation of paper "LGIA: Layer-wise Gradient Inversion Attack in Federated Learning"
 
 # Requirements
